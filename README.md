@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=fcd3d1&height=15&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=shark&color=fe929f&height=125&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=fcd3d1&height=15&section=header" style="display: block; margin: 0 auto;"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=fe929f&height=125&section=header"style="display: block; margin: 0 auto;" />
 
 <h3 align="center">🌷Hi There🌷</h3>
 <p align="center">
@@ -15,5 +15,5 @@ Make it happen!
   <a href="mailto:imgimyoni@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imgimyoni@gmail.com"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=fe929f&height=125&section=footer" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=fcd3d1&height=15&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=fe929f&height=125&section=footer" style="display: block; margin: 0 auto;"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=fcd3d1&height=15&section=footer"style="display: block; margin: 0 auto;" />
