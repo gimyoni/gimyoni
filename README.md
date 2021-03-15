@@ -1,16 +1,23 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=fcd3d1&height=15&section=header&text=&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=fe929f&height=125&section=header&text=&fontSize=90" />
+<br>
+<br>
+<h3 align="center">🌷Hi There🌷</h3>
+<p align="center">
 
-<!--
-**gimyoni/gimyoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm YeonHui Kim, a growing developer🙌<br>
+Make it happen!
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">•••</h3>
+
+<p align="center">
+  <a href="www.notion.so/a1e7d50f6dbe4a30a0e885bb1699fb17"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white&link=www.notion.so/a1e7d50f6dbe4a30a0e885bb1699fb17"/></a>&nbsp
+  <a href="mailto:imgimyoni@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imgimyoni@gmail.com"/></a>
+ 
+</p>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=fe929f&height=125&section=footer&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=fcd3d1&height=15&section=header&text=&fontSize=90" />
