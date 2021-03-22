@@ -11,7 +11,7 @@ Make it happen!
 <h3 align="center">•••</h3>
 
 <p align="center">
-  <a href="https://github.com/gimyoni"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white&link= https://github.com/gimyoni"/></a>&nbsp
+  <a href="http://bit.ly/gimyoni_notion"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white&link=http://bit.ly/gimyoni_notion"/></a>&nbsp
   <a href="mailto:imgimyoni@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imgimyoni@gmail.com"/></a>
 </p>
 
