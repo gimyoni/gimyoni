@@ -12,7 +12,8 @@ Make it happen!
 
 <p align="center">
   <a href="http://bit.ly/gimyoni_notion"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white&link=http://bit.ly/gimyoni_notion"/></a>&nbsp
-  <a href="mailto:imgimyoni@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imgimyoni@gmail.com"/></a>
+  <a href="mailto:imgimyoni@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imgimyoni@gmail.com"/></a>&nbsp
+  <a href="https://mylittletechdiary.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20Blog-208c20"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=fe929f&height=125&section=footer" style="display: block; margin: 0 auto;"/>
