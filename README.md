@@ -16,5 +16,3 @@ Make it happen!
   <a href="https://mylittletechdiary.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20Blog-208c20"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=fe929f&height=125&section=footer" style="display: block; margin: 0 auto;"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=fcd3d1&height=15&section=footer"style="display: block; margin: 0 auto;" />
