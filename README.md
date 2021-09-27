@@ -12,7 +12,7 @@ Make it happen!
 
 <p align="center">
   <a href="https://acoustic-mask-952.notion.site/Page-3826744f72184a3a866356ec792ff6de"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Page-3826744f72184a3a866356ec792ff6de"/></a>&nbsp
-  <a href="mailto:imgimyoni@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imgimyoni@gmail.com"/></a>&nbsp
+  <a href="mailto:kimyeonhui03@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimyeonhui03@gmail.com"/></a>&nbsp
   <a href="https://mylittletechdiary.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20Blog-208c20"/></a>
 </p>
 <br>
