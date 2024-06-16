@@ -1,7 +1,7 @@
 
 ### 𝗛𝗶, 𝗧𝗵𝗲𝗿𝗲 👋
 #### 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 𝗆𝖾 ...
-<a href="https://bit.ly/KyhNotion">
+<a href="https://bit.ly/KimyeonhuiNotion">
     <img src="https://img.shields.io/badge/Notion-000000.svg?&logo=notion&logoColor=white&alt=notion&link=https://bit.ly/KyhNotion"/>
 </a>
 <a href="mailto:kimyeonhui03@gmail.com">
